@@ -1,0 +1,18 @@
+# Ignore model weights and checkpoints
+*.bin
+*.pt
+*.pth
+*.safetensors
+/results
+/checkpoints
+lora-adapter/
+
+# Ignore virtual environments and logs
+venv/
+.env
+__pycache__/
+*.log
+.DS_Store
+
+# Ignore large datasets if they are local
+*.jsonl
