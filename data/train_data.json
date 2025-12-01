@@ -1,0 +1,153 @@
+[
+  {
+    "context_list": "1. Article: Cell Wall Structures. Summary: This study compares bacterial cell envelopes. It highlights that Gram-positive bacteria possess a thick peptidoglycan layer containing teichoic acids. In contrast, Gram-negative bacteria have a thinner peptidoglycan layer surrounded by an outer membrane containing lipopolysaccharides (LPS). Grade: A. Citation: (Rogers & Nhu, 2024).",
+    "question": "What is the main structural difference between Gram-positive and Gram-negative bacterial cell walls?",
+    "answer": "Gram-positive bacteria possess a thick peptidoglycan layer containing teichoic acids, while Gram-negative bacteria have a thinner peptidoglycan layer surrounded by an outer membrane containing lipopolysaccharides (Rogers & Nhu, 2024)."
+  },
+  {
+    "context_list": "1. Article: Mechanisms of Resistance. Summary: Horizontal gene transfer allows bacteria to exchange antibiotic resistance genes. The primary mechanisms observed were conjugation, transformation, and transduction. These processes accelerate the spread of resistance traits across different species. Grade: A. Citation: (Zhou et al., 2023).",
+    "question": "How does horizontal gene transfer contribute to antibiotic resistance in bacteria?",
+    "answer": "Horizontal gene transfer allows bacteria to exchange antibiotic resistance genes through mechanisms such as conjugation, transformation, and transduction (Zhou et al., 2023). This accelerates the spread of resistance traits across different species and environments."
+  },
+  {
+    "context_list": "1. Article: CRISPR Systems in Prokaryotes. Summary: The CRISPR-Cas system provides adaptive immunity to bacteria and archaea. It functions by recognizing and cleaving foreign genetic material such as bacteriophage DNA. It is also the basis for genome editing. Grade: A. Citation: (Doudna & Charpentier, 2014).",
+    "question": "What is the function of the CRISPR-Cas system in prokaryotes?",
+    "answer": "The CRISPR-Cas system provides adaptive immunity to bacteria and archaea by recognizing and cleaving foreign genetic material such as bacteriophage DNA (Doudna & Charpentier, 2014). It also serves as the foundation for modern genome-editing technologies."
+  },
+
+  {
+    "context_list": "1. Article: Sporulation Dynamics in Bacillus. Summary: Endospore formation is a survival mechanism triggered by nutrient limitation. The bacterium partitions its cytoplasm, forms a spore coat and cortex, and releases a metabolically dormant, highly resistant endospore. Grade: A. Citation: (Tan & Ramamurthi, 2014).",
+    "question": "Describe the process of endospore formation in Bacillus species.",
+    "answer": "Endospore formation, or sporulation, is a survival mechanism triggered by nutrient limitation (Tan & Ramamurthi, 2014). The bacterium partitions its cytoplasm, forms a spore coat and cortex, and releases a metabolically dormant, highly resistant endospore."
+  },
+  {
+    "context_list": "1. Article: Chemical Communication in Bacteria. Summary: Quorum sensing is a chemical communication process where bacteria coordinate gene expression based on cell population density. It regulates behaviors like biofilm formation, virulence factor production, and bioluminescence. Grade: A. Citation: (Waters & Bassler, 2005).",
+    "question": "What is quorum sensing, and why is it important in bacterial communities?",
+    "answer": "Quorum sensing is a chemical communication process where bacteria coordinate gene expression based on cell population density (Waters & Bassler, 2005). It regulates behaviors like biofilm formation, virulence factor production, and bioluminescence."
+  },
+  {
+    "context_list": "1. Article: E. coli Metabolism. Summary: Under anaerobic conditions, Escherichia coli performs mixed-acid fermentation. This process produces ethanol, acetate, lactate, formate, and succinate to regenerate NAD+ for glycolysis to continue. Grade: A. Citation: (Clark, 1989).",
+    "question": "Which metabolic pathway is primarily used by Escherichia coli under anaerobic conditions?",
+    "answer": "Under anaerobic conditions, Escherichia coli performs mixed-acid fermentation, producing ethanol, acetate, lactate, formate, and succinate to regenerate NAD+ (Clark, 1989)."
+  },
+  {
+    "context_list": "1. Article: Methanogens in the Carbon Cycle. Summary: Methanogens convert carbon dioxide, hydrogen, and acetate into methane under anaerobic conditions. They are key players in carbon recycling within wetlands, sediments, and the guts of ruminants. Grade: A. Citation: (Liu & Whitman, 2008).",
+    "question": "What role do methanogenic archaea play in the global carbon cycle?",
+    "answer": "Methanogens convert carbon dioxide, hydrogen, and acetate into methane under anaerobic conditions (Liu & Whitman, 2008). They are key players in carbon recycling within wetlands, sediments, and the guts of ruminants."
+  },
+  {
+    "context_list": "1. Article: Biofilms and Resistance. Summary: Biofilms protect bacterial cells through extracellular polymeric substances that limit antibiotic penetration. They create microenvironments with altered pH and oxygen, and cells within biofilms often enter slow-growing states that reduce drug susceptibility. Grade: A. Citation: (Stewart & Costerton, 2001).",
+    "question": "Explain how bacterial biofilms increase resistance to antibiotics.",
+    "answer": "Biofilms protect bacterial cells through extracellular polymeric substances that limit antibiotic penetration and create microenvironments with altered pH and oxygen (Stewart & Costerton, 2001). Cells within biofilms also enter slow-growing states that reduce drug susceptibility."
+  },
+  {
+    "context_list": "1. Article: Life in Extreme Environments. Summary: Extremophiles are microorganisms that thrive in extreme conditions such as high temperature, salinity, acidity, or pressure. Common examples include thermophiles found in hot springs and halophiles found in salt lakes. Grade: A. Citation: (Rothschild & Mancinelli, 2001).",
+    "question": "What are extremophiles, and where are they commonly found?",
+    "answer": "Extremophiles are microorganisms that thrive in extreme conditions such as high temperature, salinity, acidity, or pressure (Rothschild & Mancinelli, 2001). Examples include thermophiles in hot springs and halophiles in salt lakes."
+  },
+  {
+    "context_list": "1. Article: Biological Nitrogen Fixation. Summary: Nitrogen-fixing bacteria use the enzyme nitrogenase to convert atmospheric nitrogen (N2) into ammonia (NH3). This bioavailable form is crucial for plants. The process is energetically expensive and often occurs in symbiotic relationships with legumes. Grade: A. Citation: (Dixon & Kahn, 2004).",
+    "question": "How does nitrogen fixation occur in bacteria?",
+    "answer": "Nitrogen-fixing bacteria use the enzyme nitrogenase to convert atmospheric nitrogen (N2) into ammonia (NH3), a bioavailable form for plants (Dixon & Kahn, 2004). This process is energetically expensive and often occurs in symbiotic relationships with legumes."
+  },
+  {
+    "context_list": "1. Article: 16S rRNA in Phylogeny. Summary: The 16S rRNA gene is highly conserved across bacteria and archaea. This conservation makes it a key molecular marker for phylogenetic analysis and microbial identification through sequence comparison. Grade: A. Citation: (Woese, 1987).",
+    "question": "What is the significance of the 16S rRNA gene in microbial taxonomy?",
+    "answer": "The 16S rRNA gene is highly conserved across bacteria and archaea, making it a key molecular marker for phylogenetic analysis and microbial identification through sequence comparison (Woese, 1987)."
+  },
+  {
+    "context_list": "1. Article: Phages as Evolutionary Drivers. Summary: Bacteriophages act as selective pressures and gene vectors. They drive microbial evolution by mediating horizontal gene transfer, lysogenic conversion, and genomic rearrangements. Grade: A. Citation: (Koskella & Brockhurst, 2014).",
+    "question": "How do bacteriophages influence microbial evolution?",
+    "answer": "Bacteriophages act as selective pressures and gene vectors, driving microbial evolution by mediating horizontal gene transfer, lysogenic conversion, and genomic rearrangements (Koskella & Brockhurst, 2014)."
+  },
+  {
+    "context_list": "1. Article: Mechanisms of Conjugation. Summary: Bacterial conjugation involves the formation of a pilus by a donor cell which attaches to a recipient. Plasmid DNA is transferred through a conjugation bridge, followed by the replication of the transferred genetic material. Grade: A. Citation: (Lleder et al., 2017).",
+    "question": "What are the primary steps in bacterial conjugation?",
+    "answer": "Conjugation involves the formation of a pilus by a donor cell, attachment to a recipient, transfer of plasmid DNA through a conjugation bridge, and subsequent replication of the transferred genetic material (Lleder et al., 2017)."
+  },
+  {
+    "context_list": "1. Article: Microbes in Wastewater. Summary: Microbes degrade organic matter and remove nutrients in wastewater through aerobic and anaerobic digestion. Specific bacteria oxidize ammonia to nitrate, while others denitrify nitrate to nitrogen gas. Grade: A. Citation: (Bitton, 2005).",
+    "question": "Describe how microbes are used in wastewater treatment.",
+    "answer": "Microbes degrade organic matter and remove nutrients in wastewater through aerobic and anaerobic digestion (Bitton, 2005). Specific bacteria oxidize ammonia to nitrate, while others denitrify nitrate to nitrogen gas."
+  },
+  {
+    "context_list": "1. Article: Aerobic vs Anaerobic Growth. Summary: Facultative anaerobes can grow in both the presence and absence of oxygen, switching between aerobic respiration and fermentation. In contrast, obligate anaerobes are harmed or killed by oxygen exposure. Grade: A. Citation: (Hentges, 1996).",
+    "question": "How do facultative anaerobes differ from obligate anaerobes?",
+    "answer": "Facultative anaerobes can grow in both the presence and absence of oxygen, using aerobic respiration when oxygen is available and fermentation otherwise (Hentges, 1996). Obligate anaerobes are harmed by oxygen exposure."
+  },
+  {
+    "context_list": "1. Article: The Era of Metagenomics. Summary: Metagenomics involves sequencing genetic material directly from environmental samples. This technique enables the study of unculturable microbes and has expanded our understanding of microbial diversity and function. Grade: A. Citation: (Handelsman, 2004).",
+    "question": "What is metagenomics, and how has it advanced microbiology research?",
+    "answer": "Metagenomics involves sequencing genetic material directly from environmental samples, enabling the study of unculturable microbes and expanding our understanding of microbial diversity and function (Handelsman, 2004)."
+  },
+  {
+    "context_list": "1. Article: Bacterial Motility. Summary: Flagella are whip-like appendages that provide motility to bacteria. Rotation is powered by the proton motive force. They enable chemotaxis by directing movement toward favorable conditions. Grade: A. Citation: (Berg, 2003).",
+    "question": "Explain the function of bacterial flagella.",
+    "answer": "Flagella are whip-like appendages that provide motility to bacteria through rotation powered by the proton motive force (Berg, 2003). They enable chemotaxis by directing movement toward favorable conditions."
+  },
+  {
+    "context_list": "1. Article: Lactic Acid Bacteria in Food. Summary: Lactic acid bacteria convert carbohydrates into lactic acid. This process lowers pH and prevents spoilage. They are essential in producing yogurt, cheese, sauerkraut, and kimchi. Grade: A. Citation: (Leroy & De Vuyst, 2004).",
+    "question": "How do lactic acid bacteria contribute to food fermentation?",
+    "answer": "Lactic acid bacteria convert carbohydrates into lactic acid, lowering pH and preventing spoilage (Leroy & De Vuyst, 2004). They are essential in producing yogurt, cheese, sauerkraut, and kimchi."
+  },
+  {
+    "context_list": "1. Article: Sterilization vs Disinfection. Summary: Sterilization destroys all microbial life, including highly resistant spores. Disinfection reduces or eliminates pathogenic microorganisms on surfaces but does not necessarily kill spores. Grade: A. Citation: (Rutala & Weber, 2008).",
+    "question": "What is the difference between sterilization and disinfection?",
+    "answer": "Sterilization destroys all microbial life, including spores, while disinfection reduces or eliminates pathogenic microorganisms on surfaces without necessarily killing spores (Rutala & Weber, 2008)."
+  },
+  {
+    "context_list": "1. Article: The Human Gut Microbiome. Summary: Gut microbes assist in digestion and produce vitamins like B12 and K. They also modulate immune responses and prevent colonization by pathogens. Dysbiosis is linked to diseases such as obesity and IBD. Grade: A. Citation: (Turnbaugh et al., 2007).",
+    "question": "How do microbes contribute to the human gut microbiome?",
+    "answer": "Gut microbes assist in digestion, produce vitamins like B12 and K, modulate immune responses, and prevent colonization by pathogens (Turnbaugh et al., 2007). Dysbiosis in this community is linked to diseases such as obesity and inflammatory bowel disease."
+  },
+  {
+    "context_list": "1. Article: Cyanobacteria and Earth's Atmosphere. Summary: Cyanobacteria are photosynthetic prokaryotes responsible for the Great Oxidation Event. They utilize water as an electron donor in photosynthesis, releasing oxygen as a byproduct, which fundamentally changed Earth's atmosphere. Grade: A. Citation: (Whitton & Potts, 2012).",
+    "question": "How did cyanobacteria influence the composition of Earth's early atmosphere?",
+    "answer": "Cyanobacteria are photosynthetic prokaryotes that utilize water as an electron donor, releasing oxygen as a byproduct, a process that fundamentally changed Earth's atmosphere during the Great Oxidation Event (Whitton & Potts, 2012)."
+  },
+  {
+    "context_list": "1. Article: Helicobacter pylori Pathogenesis. Summary: Helicobacter pylori survives in the acidic environment of the human stomach by producing urease. This enzyme neutralizes gastric acid by converting urea into ammonia and carbon dioxide, allowing the bacterium to colonize the gastric lining and cause ulcers. Grade: A. Citation: (Marshall & Warren, 1984).",
+    "question": "What mechanism allows Helicobacter pylori to survive in the acidic human stomach?",
+    "answer": "Helicobacter pylori survives in the stomach by producing the enzyme urease, which neutralizes gastric acid by converting urea into ammonia and carbon dioxide (Marshall & Warren, 1984)."
+  },
+  {
+    "context_list": "1. Article: Thermus aquaticus and PCR. Summary: Thermus aquaticus is a thermophilic bacterium discovered in hot springs. Its DNA polymerase, Taq polymerase, is heat-stable and is the key enzyme used in the Polymerase Chain Reaction (PCR) to amplify DNA sequences. Grade: A. Citation: (Brock & Freeze, 1969).",
+    "question": "Why is Thermus aquaticus important for molecular biology?",
+    "answer": "Thermus aquaticus produces Taq polymerase, a heat-stable DNA polymerase that is the key enzyme used in the Polymerase Chain Reaction (PCR) to amplify DNA sequences (Brock & Freeze, 1969)."
+  },
+  {
+    "context_list": "1. Article: Mycorrhizal Symbiosis. Summary: Arbuscular mycorrhizal fungi form symbiotic associations with plant roots. The fungi enhance the plant's uptake of water and nutrients, particularly phosphorus, while receiving carbon in the form of sugars from the plant. Grade: A. Citation: (Smith & Read, 2008).",
+    "question": "Describe the symbiotic relationship between arbuscular mycorrhizal fungi and plants.",
+    "answer": "Arbuscular mycorrhizal fungi enhance the plant's uptake of water and phosphorus, while receiving carbon in the form of sugars from the plant (Smith & Read, 2008)."
+  },
+  {
+    "context_list": "1. Article: Wolbachia Host Manipulation. Summary: Wolbachia is an intracellular bacterium that infects arthropods. It manipulates host reproduction through mechanisms such as cytoplasmic incompatibility, feminization, and male killing to increase its transmission through female hosts. Grade: A. Citation: (Werren et al., 2008).",
+    "question": "How does Wolbachia manipulate the reproduction of its arthropod hosts?",
+    "answer": "Wolbachia manipulates host reproduction to increase its transmission through mechanisms such as cytoplasmic incompatibility, feminization, and male killing (Werren et al., 2008)."
+  },
+  {
+    "context_list": "1. Article: Magnetotactic Bacteria. Summary: Magnetotactic bacteria contain organelles called magnetosomes, which are membrane-bound crystals of magnetite or greigite. These structures allow the bacteria to align with Earth's magnetic field to navigate toward optimal oxygen levels. Grade: A. Citation: (Blakemore, 1975).",
+    "question": "What is the function of magnetosomes in bacteria?",
+    "answer": "Magnetosomes are membrane-bound crystals of magnetite or greigite that allow bacteria to align with Earth's magnetic field to navigate toward optimal oxygen levels (Blakemore, 1975)."
+  },
+  {
+    "context_list": "1. Article: Oil Spill Bioremediation. Summary: Bioremediation utilizes microorganisms to degrade environmental pollutants. In the case of oil spills, specific bacteria such as Alcanivorax borkumensis produce surfactants and enzymes that break down hydrocarbons into less harmful substances. Grade: A. Citation: (Atlas, 1991).",
+    "question": "How are bacteria utilized in the bioremediation of oil spills?",
+    "answer": "Specific bacteria, such as Alcanivorax borkumensis, produce surfactants and enzymes that degrade hydrocarbons from oil spills into less harmful substances (Atlas, 1991)."
+  },
+  {
+    "context_list": "1. Article: Clostridioides difficile Infection. Summary: Clostridioides difficile is a spore-forming bacterium that causes severe diarrhea and colitis, often after antibiotic use disrupts normal gut flora. Its spores are highly resistant to disinfectants, making hospital transmission common. Grade: A. Citation: (Loo et al., 2005).",
+    "question": "Why is Clostridioides difficile a major concern in healthcare settings?",
+    "answer": "Clostridioides difficile causes severe colitis after antibiotic use disrupts gut flora, and its highly resistant spores facilitate easy transmission in hospitals (Loo et al., 2005)."
+  },
+  {
+    "context_list": "1. Article: Legume-Rhizobia Symbiosis. Summary: Rhizobia are soil bacteria that induce the formation of nodules on legume roots. Inside these nodules, the bacteria differentiate into bacteroids and fix nitrogen, protected from oxygen by the plant protein leghemoglobin. Grade: A. Citation: (Oldroyd, 2013).",
+    "question": "What is the role of leghemoglobin in legume root nodules?",
+    "answer": "Leghemoglobin protects nitrogen-fixing bacteroids within root nodules from oxygen, which inhibits the nitrogenase enzyme (Oldroyd, 2013)."
+  },
+  {
+    "context_list": "1. Article: Yeast as a Model Organism. Summary: Saccharomyces cerevisiae, or baker's yeast, is a unicellular eukaryotic model organism. It shares many fundamental cellular processes with humans, including cell cycle regulation and DNA repair, making it invaluable for genetic research. Grade: A. Citation: (Botstein & Fink, 2011).",
+    "question": "Why is Saccharomyces cerevisiae considered an important model organism?",
+    "answer": "Saccharomyces cerevisiae is a unicellular eukaryote that shares fundamental cellular processes with humans, such as cell cycle regulation and DNA repair, making it invaluable for genetic research (Botstein & Fink, 2011)."
+  }
+]

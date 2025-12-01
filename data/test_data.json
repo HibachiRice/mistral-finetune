@@ -1,0 +1,80 @@
+[
+  {
+    "context_list": "1. Article: Antibiotic Targets. Summary: Penicillin functions by inhibiting the enzyme transpeptidase, which is essential for cross-linking peptidoglycan strands in bacterial cell walls. This weakens the wall and leads to osmotic lysis. Grade: A. Citation: (Fleming, 1929).",
+    "question": "What is the mechanism of action of penicillin?",
+    "reference_answer": "Penicillin functions by inhibiting the enzyme transpeptidase, which is essential for cross-linking peptidoglycan strands in bacterial cell walls (Fleming, 1929).",
+    "required_entities": ["transpeptidase", "peptidoglycan", "osmotic lysis"]
+  },
+  {
+    "context_list": "1. Article: Viral Replication. Summary: The lytic cycle involves the rapid replication of phage particles and the subsequent destruction of the host cell. In contrast, the lysogenic cycle involves the integration of the phage genome into the host chromosome, where it replicates passively. Grade: A. Citation: (Lwoff, 1953).",
+    "question": "Compare the lytic and lysogenic cycles of bacteriophages.",
+    "reference_answer": "The lytic cycle involves the rapid replication of phage particles and host cell destruction, whereas the lysogenic cycle involves the integration of the phage genome into the host chromosome (Lwoff, 1953).",
+    "required_entities": ["lytic cycle", "lysogenic cycle", "integration", "host chromosome"]
+  },
+  {
+    "context_list": "1. Article: Fungal Cell Walls. Summary: Unlike bacteria, fungal cell walls are primarily composed of chitin, glucans, and glycoproteins. They do not contain peptidoglycan, which renders them intrinsically resistant to beta-lactam antibiotics. Grade: A. Citation: (Bowman & Free, 2006).",
+    "question": "What are the major components of fungal cell walls?",
+    "reference_answer": "Fungal cell walls are primarily composed of chitin, glucans, and glycoproteins (Bowman & Free, 2006).",
+    "required_entities": ["chitin", "glucans", "glycoproteins"]
+  },
+{
+    "context_list": "1. Article: Prion Diseases. Summary: Prions are infectious agents composed entirely of misfolded proteins, lacking nucleic acids. They propagate by inducing normal proteins to adopt the abnormal prion structure, causing neurodegenerative diseases like Creutzfeldt-Jakob disease. Grade: A. Citation: (Prusiner, 1982).",
+    "question": "How do prions differ from viruses and bacteria?",
+    "reference_answer": "Prions differ from viruses and bacteria because they are composed entirely of misfolded proteins and lack nucleic acids (Prusiner, 1982).",
+    "required_entities": ["misfolded proteins", "lack nucleic acids", "neurodegenerative"]
+  },
+  {
+    "context_list": "1. Article: Discovery of Transformation. Summary: Frederick Griffith's experiments with Streptococcus pneumoniae demonstrated that bacteria are capable of transferring genetic information through a process called transformation, where 'competent' cells take up naked DNA from their environment. Grade: A. Citation: (Griffith, 1928).",
+    "question": "What did Griffith's experiment demonstrate regarding bacterial genetics?",
+    "reference_answer": "Griffith's experiment demonstrated bacterial transformation, the process where competent cells take up naked genetic material from the environment (Griffith, 1928).",
+    "required_entities": ["transformation", "naked DNA", "competent"]
+  },
+  {
+    "context_list": "1. Article: Retroviral Replication. Summary: Retroviruses, such as HIV, utilize the enzyme reverse transcriptase to synthesize DNA from an RNA template. This viral DNA is then integrated into the host cell's genome by the enzyme integrase. Grade: A. Citation: (Baltimore, 1970).",
+    "question": "What is the function of reverse transcriptase in retroviruses?",
+    "reference_answer": "Retroviruses use reverse transcriptase to synthesize DNA from an RNA template, allowing integration into the host genome (Baltimore, 1970).",
+    "required_entities": ["synthesize DNA", "RNA template", "integrate"]
+  },
+  {
+    "context_list": "1. Article: Establishing Causality. Summary: Koch's postulates are a series of four criteria designed to establish a causal relationship between a microbe and a disease. They require isolating the pathogen from a diseased host, culturing it, reinfecting a healthy host, and re-isolating the pathogen. Grade: A. Citation: (Koch, 1884).",
+    "question": "What is the purpose of Koch's postulates?",
+    "reference_answer": "Koch's postulates are criteria used to establish a causal relationship between a specific microorganism and a disease (Koch, 1884).",
+    "required_entities": ["causal relationship", "microbe", "disease"]
+  },
+  {
+    "context_list": "1. Article: The Malaria Parasite. Summary: Malaria is caused by protozoan parasites of the genus Plasmodium. The parasite has a complex life cycle involving an Anopheles mosquito vector and a human host, where it infects liver cells and red blood cells. Grade: A. Citation: (Laveran, 1880).",
+    "question": "Which organism causes malaria, and what is its primary vector?",
+    "reference_answer": "Malaria is caused by Plasmodium parasites and is transmitted by the Anopheles mosquito vector (Laveran, 1880).",
+    "required_entities": ["Plasmodium", "Anopheles mosquito", "red blood cells"]
+  },
+  {
+    "context_list": "1. Article: Agrobacterium and Plant Engineering. Summary: Agrobacterium tumefaciens causes crown gall disease by transferring a specific segment of DNA (T-DNA) from its tumor-inducing (Ti) plasmid into the plant host's genome. This natural mechanism is widely used in plant genetic engineering. Grade: A. Citation: (Chilton et al., 1977).",
+    "question": "How does Agrobacterium tumefaciens modify plant genomes?",
+    "reference_answer": "Agrobacterium tumefaciens transfers T-DNA from its Ti plasmid into the plant's genome, a mechanism utilized in genetic engineering (Chilton et al., 1977).",
+    "required_entities": ["Ti plasmid", "T-DNA", "plant genome"]
+  },
+  {
+    "context_list": "1. Article: Radiation Resistance. Summary: Deinococcus radiodurans is an extremophilic bacterium famous for its ability to withstand massive doses of ionizing radiation. It survives by having an exceptionally efficient DNA repair mechanism that reassembles shattered chromosomes. Grade: A. Citation: (Anderson et al., 1956).",
+    "question": "What unique survival trait is Deinococcus radiodurans known for?",
+    "reference_answer": "Deinococcus radiodurans is known for its extreme resistance to ionizing radiation, attributed to its efficient DNA repair mechanisms (Anderson et al., 1956).",
+    "required_entities": ["ionizing radiation", "DNA repair", "shattered chromosomes"]
+  },
+  {
+    "context_list": "1. Article: Beta-Lactamase Activity. Summary: Many bacteria develop resistance to penicillin and cephalosporins by producing beta-lactamases. These enzymes hydrolyze the beta-lactam ring structure of the antibiotic, rendering it ineffective before it can target the cell wall. Grade: A. Citation: (Abraham & Chain, 1940).",
+    "question": "How do beta-lactamase enzymes confer antibiotic resistance?",
+    "reference_answer": "Beta-lactamase enzymes confer resistance by hydrolyzing the beta-lactam ring of antibiotics like penicillin, rendering them ineffective (Abraham & Chain, 1940).",
+    "required_entities": ["hydrolyze", "beta-lactam ring", "ineffective"]
+  },
+  {
+    "context_list": "1. Article: Wall-less Bacteria. Summary: Mycoplasma species are unique among bacteria because they completely lack a cell wall. This characteristic makes them naturally resistant to antibiotics that target cell wall synthesis, such as penicillin, and gives them a pleomorphic shape. Grade: A. Citation: (Razin, 1978).",
+    "question": "Why are Mycoplasma species naturally resistant to penicillin?",
+    "reference_answer": "Mycoplasma species are resistant to penicillin because they lack a cell wall, which is the specific target of beta-lactam antibiotics (Razin, 1978).",
+    "required_entities": ["lack a cell wall", "penicillin", "target"]
+  },
+  {
+    "context_list": "1. Article: Plastic Degradation. Summary: Ideonella sakaiensis is a bacterium capable of degrading polyethylene terephthalate (PET) plastic. It secretes an enzyme called PETase, which breaks down the plastic into mono-(2-hydroxyethyl) terephthalic acid, using it as a major energy source. Grade: A. Citation: (Yoshida et al., 2016).",
+    "question": "How does Ideonella sakaiensis degrade plastic?",
+    "reference_answer": "Ideonella sakaiensis degrades PET plastic by secreting the enzyme PETase, which breaks the plastic down for use as an energy source (Yoshida et al., 2016).",
+    "required_entities": ["PET plastic", "PETase", "energy source"]
+  }
+]
